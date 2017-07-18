@@ -1,0 +1,37 @@
+# My Daily #30Days30Sites Log
+
+I started this challenge on *insert date here*.  
+I completed this challenge on *insert date here*.
+
+## Log
+---
+
+### **Day 1:** *12 Jul 2017*
+Today **I did**:  Worked on my main portfolio remake a bit.
+**I learned:**  I did this over the previous couple of days and didn't really do much work on it for this day.  It was really busy and didn't have as much time as I thought...so I counted the previous days of working on the portfolio before I started the challenge.
+**Link:** [My Portfolio](https://staxed.github.io)
+
+### **Day 2:** *13 Jul 2017*
+Today **I did**:  Invitation Page
+**I learned:**  Getting formatting exactly the way you want it with flexbox is both easy and hard at the same time.  It'll do exactly what you want it to, but sometimes you gotta play with it a lot first. (that's what she said...)
+**Link:** [Journey to Code](http://staxed.github.io/30Days30Sites/invitation/)
+
+### **Day 3:** *14 Jul 2017*
+Today **I did**:  Tourist Attraction Page
+**I learned:**  I didn't know what to do for this prompt, so I figured I'd just pick my wifes favorite place.  I used most of the same techniques as I did yesterday so didn't really learn anything new except that if I want to get 1 site finished per day, I'm going to need to plan sites that are a little simpler.  I keep running out of time in the day
+**Link:** [The Eiffel Tower](http://staxed.github.io/30Days30Sites/touristattraction/)
+
+### **Day 4:** *15 Jul 2017*
+Today **I did**:  Product Page
+**I learned:**  Simple is good, but even simple can take a while to design when you are still learning.  I played with height and width settings in flexbox css as well as working on learning on what the best method will be for creating a sticky navigation.  display: sticky works excellently, but is very poorly supported in most browsers so it's a no-go.
+**Link:** [No Name Product](http://staxed.github.io/30Days30Sites/product/)
+
+### **Day 5:** *16 Jul 2017*
+Today **I did**:  Restaurant Menu Page
+**I learned:**  Keep it simple and I can get a site completed!  I still have to do the mobile friendly aspect of things, but I wasn't really including that in the finished product requirement so I still consider it done.  I need to work on playing with image layouts.  Learned a lot about controlling width of horizontal columns and containers within them.  Using image width to control size/columns of images with wrapping in flexbox.
+**Link:** [Sweet Confections by Amber](http://staxed.github.io/30Days30Sites/menu/)
+
+### **Day 6:** *17 Jul 2017*
+Today **I did**:  Build a repo for #30Days30Sites
+**I learned:**  A little about markup
+**Link:** [Github Repo](https://github.com/Staxed/30Days30Sites-Main)
