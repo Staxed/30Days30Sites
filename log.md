@@ -31,7 +31,12 @@ Today **I did**:  Restaurant Menu Page
 **I learned:**  Keep it simple and I can get a site completed!  I still have to do the mobile friendly aspect of things, but I wasn't really including that in the finished product requirement so I still consider it done.  I need to work on playing with image layouts.  Learned a lot about controlling width of horizontal columns and containers within them.  Using image width to control size/columns of images with wrapping in flexbox.
 **Link:** [Sweet Confections by Amber](http://staxed.github.io/30Days30Sites/menu/)
 
-### **Day 6:** *17 Jul 2017*
+### **Day 5.5:** *17 Jul 2017*
 Today **I did**:  Build a repo for #30Days30Sites
-**I learned:**  A little about markup
+**I learned:**  A little about markup.  Today was a rest day, no prompt in the email so I figured I'd take a little time to work on this repo I've wanted to do.
 **Link:** [Github Repo](https://github.com/Staxed/30Days30Sites-Main)
+
+### **Day 6:** *18 Jul 2017*
+Today **I did**:  Worked on a friends site, HCTownes.com, because it fit the prompt of book/author.
+**I learned:**  Not sure I actually learned anything new today.  I just played around with layout for about an hour trying to get something to look good and never did end up liking it.  Waiting to get a photo to use in that area and I think it will pick it up a lot.
+**Link:** [Github Repo for HCTownes](https://github.com/Staxed/hctownes)
